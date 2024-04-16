@@ -102,8 +102,8 @@
   width: 25%;
   height: auto;
   /* box-shadow: 2px 17px 48px rgba(0, 0, 0, .12); */
-  /* animation: slideIn 1.5s ease-in-out forwards; */
-  animation: slideUp .8s ease forwards .5s;
+  animation: slideIn 1.5s ease-in-out forwards;
+/*   animation: slideUp .8s ease forwards .5s; */
 }
 .footer {
     padding: .5px;
